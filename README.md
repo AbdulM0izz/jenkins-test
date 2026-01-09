@@ -18,7 +18,7 @@ This project demonstrates how to test a Jenkins job trigger using GitHub webhook
 ### 1. Start Jenkins Locally
 Ensure Jenkins is running on your local machine at `http://localhost:8080`
 
-### 2. Expose Jenkins via Ngrok
+### 2. Expose Jenkins Ngrok
 Open a terminal and run:
 ```bash
 ngrok http 8080
