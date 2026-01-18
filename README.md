@@ -1,4 +1,4 @@
-#  Jenkins Webhook Test via Ngrok
+#  Jenkins Webhook Test Ngrok
 
 This project demonstrates how to test a Jenkins job trigger using GitHub webhooks and Ngrok for local development.
 
